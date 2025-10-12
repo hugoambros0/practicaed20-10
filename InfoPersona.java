@@ -12,5 +12,5 @@ public class InfoPersona {
         System.out.println("Nom: " + nom + ", edat: " + edat);
     }
 
-    // TODO: Afegeix aquí una nova funció segons les instruccions del README
+    // TODO: Afegeix aquí una nova funció segons les instruccions.
 }
